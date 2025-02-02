@@ -17,13 +17,13 @@
 
   <h1 align="center">OnAir.ai Podcast Platform</h1>
 
-  ![GitHub deployments](https://img.shields.io/github/deployments/deepsingh132/aionair/production?label=build)
-  [![Docker Image CI](https://github.com/deepsingh132/aionair/actions/workflows/docker-image.yml/badge.svg)](https://github.com/deepsingh132/aionair/actions/workflows/docker-image.yml)
-  [![Node.js CI](https://github.com/deepsingh132/aionair/actions/workflows/node.js.yml/badge.svg)](https://github.com/deepsingh132/aionair/actions/workflows/node.js.yml)
+  ![GitHub deployments](https://img.shields.io/github/deployments/carter059/aionair/production?label=build)
+  [![Docker Image CI](https://github.com/carter059/aionair/actions/workflows/docker-image.yml/badge.svg)](https://github.com/carter059/aionair/actions/workflows/docker-image.yml)
+  [![Node.js CI](https://github.com/carter059/aionair/actions/workflows/node.js.yml/badge.svg)](https://github.com/carter059/aionair/actions/workflows/node.js.yml)
   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/main/LICENSE)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
 
-  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/deepsingh132)
+  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/carter059)
 
 
 
@@ -117,7 +117,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/deepsingh132/aionair.git
+git clone https://github.com/carter059/aionair.git
 cd aionair
 ```
 
@@ -177,13 +177,13 @@ Follow these steps:
 1. Pull the latest image from Docker Hub.
 
     ```bash
-    docker pull deepsingh132/aionair:latest
+    docker pull carter059/aionair:latest
     ```
 
 2. Run the Docker image with the following command:
 
     ```bash
-    docker run --env-file .YOURENVFILE -p 3000:3000 deepsingh132/aionair:latest
+    docker run --env-file .YOURENVFILE -p 3000:3000 carter059/aionair:latest
     ```
 
 3. Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
@@ -194,7 +194,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## <a name="contact">📞 Contact</a>
 
-If you have any queries or feedback, please feel free to reach out to me at my [email](mailto:mandeeparora132@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/deepsingh132/).
+If you have any queries or feedback, please feel free to reach out to me at my [email](mailto:cartergrant232@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/carter-grant-9b393633b/).
 
 <br />
 <br />
